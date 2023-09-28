@@ -1,1 +1,2 @@
 # Earthquake_Prediction_AI_PHASE1
+HELLO EVERYONE
